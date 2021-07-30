@@ -1,9 +1,6 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
-// import Dashboard from './Dashboard';
 import { Card, Col, Dropdown, InputGroup, Row, Table } from 'react-bootstrap';
-// import { FaHornbill, FaSearch, FaUsers } from "react-icons/fa";
 import { FiSearch } from "react-icons/fi";
 import { HiShoppingBag } from "react-icons/hi";
 import { AiTwotonePieChart } from "react-icons/ai";
